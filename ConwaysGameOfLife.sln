@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConwaysGameOfLife", "ConwaysGameOfLife\ConwaysGameOfLife.csproj", "{A2540A8A-23D4-4540-8408-91AD026B4FF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConwaysGameOfLife.Test", "ConwaysGameOfLife.Test\ConwaysGameOfLife.Test.csproj", "{0EA5A8AF-F560-43C2-B974-6289AD4C7BE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConwaysGameOfLife.GameEngine", "ConwaysGameOfLife.GameEngine\ConwaysGameOfLife.GameEngine.csproj", "{BEEFE131-6886-4EB5-B4F3-AA1AE71C836F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2540A8A-23D4-4540-8408-91AD026B4FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2540A8A-23D4-4540-8408-91AD026B4FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2540A8A-23D4-4540-8408-91AD026B4FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2540A8A-23D4-4540-8408-91AD026B4FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA5A8AF-F560-43C2-B974-6289AD4C7BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA5A8AF-F560-43C2-B974-6289AD4C7BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA5A8AF-F560-43C2-B974-6289AD4C7BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA5A8AF-F560-43C2-B974-6289AD4C7BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEEFE131-6886-4EB5-B4F3-AA1AE71C836F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEFE131-6886-4EB5-B4F3-AA1AE71C836F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEFE131-6886-4EB5-B4F3-AA1AE71C836F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEFE131-6886-4EB5-B4F3-AA1AE71C836F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA9D4DD3-DA0F-4D57-8ED9-F7BBBAED34C8}
+	EndGlobalSection
+EndGlobal
